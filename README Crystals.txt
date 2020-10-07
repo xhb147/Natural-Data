@@ -1,0 +1,1 @@
+Resolving a complex time-varying force that is theoretically applied to crystals. Such science can be used in x-ray crystallography which has been used by biolohist to reveal the structure of DNA, proteins and drugs.
