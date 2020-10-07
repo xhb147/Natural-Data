@@ -1,0 +1,1 @@
+This project was created to describe the spontaneous symmetry breaks that occur naturally. Such as in the universe itself where antimatter has a much smaller presence than matter, though it is believed they were produced evenely initially. A 2D STATE Vector was solved to create these results.
